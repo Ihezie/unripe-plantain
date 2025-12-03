@@ -16,6 +16,7 @@ Users can sign in with Google, which allows them to add posts to their favourite
 - [Sanity CMS](https://www.sanity.io/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Shadcn Component Library](https://ui.shadcn.com/)
+- [Auth.js](https://authjs.dev/)
 
 *Live site URL* - [unripe-plantain.vercel.app](https://unripe-plantain.vercel.app/)
 
